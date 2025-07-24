@@ -74,8 +74,6 @@ Each script loads data from a JSON file, processes it, and prints the result to 
 ## 👤 Author
 
 **Omer Raza**  
-Aspiring Data Scientist & AI Engineer  
-M.Sc. Data Science Student  
 [GitHub](https://github.com/omerwritescode)
 
 ---
